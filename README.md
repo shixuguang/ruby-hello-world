@@ -12,3 +12,5 @@
       --memory: 100Mi
       --memory_limit: 200Mi 
 ```
+
+application available at `https://<zen-route>/physical_location/<default-physical-location-name>/frontend/`
